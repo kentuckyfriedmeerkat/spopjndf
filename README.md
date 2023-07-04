@@ -1,5 +1,3 @@
-# Forge Graphics Server — a basic introduction
-
 ## Prerequisites
 You need the following software to use the Forge Graphics Server:
 
